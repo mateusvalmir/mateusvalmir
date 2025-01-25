@@ -1,7 +1,6 @@
 ## Hi there 👋
-
-<!--
-**mateusvalmir/mateusvalmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width=100% src="https:// capsule-rende.vercel.app/api?type=waving&color=1E90FF&section=header"/>
+[![Typing_SVG].(https:readme-tipyng-svg.herokvapp.com/?
 
 Here are some ideas to get you started:
 
